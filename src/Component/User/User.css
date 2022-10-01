@@ -1,0 +1,17 @@
+.container{
+    max-width: 1198px;
+    margin: auto;
+}
+
+.d-flex{
+    border: 2px solid;
+margin: 10px 0;
+padding: 20px;
+}
+.container h5{
+    margin-left: 10px; 
+    font-size: 20px;
+    border: 1px solid black;
+    padding: 10px;
+    color: gray;
+}
